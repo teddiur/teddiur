@@ -2,8 +2,8 @@
 
 ⚡ I'm 29 years old and I'm based in Brazil.\
 🎓 I hold a Bachelor's Degree in Informational Technology and Chemistry\
-🌱 I'm currently learning more about Java and System Architecture.\
-🚧 I'm currently working at PagBank as a Backend Developer.
+🌱 I'm currently learning more about Clojure, Flutter and System Architecture.\
+🚧 I'm currently working at Nubank.
 
 [![](https://github-readme-stats.vercel.app/api?username=teddiur&count_private=true&show_icons=true&contribs,prs&cache_seconds=86400&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![daniloab](https://github-readme-stats.vercel.app/api/top-langs/?username=teddiur&layout=compact&theme=midnight-purple) ](https://github.com/anuraghazra/github-readme-stats)
